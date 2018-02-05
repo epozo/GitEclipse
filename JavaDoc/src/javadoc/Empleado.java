@@ -10,7 +10,7 @@ package javadoc;
  * @since 1-1-2017
  */
 
-//Exercici JavaDoc
+
 
 public class Empleado {
 	/**
