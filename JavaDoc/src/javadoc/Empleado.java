@@ -1,7 +1,7 @@
 package javadoc;
 
 //////
-////////
+////
 
 /**
  * <h2>clase Empleado, se utiliza para crear y leer empleados de una BD </h2>
